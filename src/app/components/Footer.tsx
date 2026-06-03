@@ -1,5 +1,4 @@
-import image_46ccb88ec42c12599f144f5e241ffb0fa8cef1b2 from "../../assets/46ccb88ec42c12599f144f5e241ffb0fa8cef1b2.png";
-import logoManfreca from "figma:asset/3bd52dfc5ec22a7fec040fc801048b6bb455c1e3.png";
+import logoImg from "../../assets/46ccb88ec42c12599f144f5e241ffb0fa8cef1b2.png";
 import { motion as Motion } from "motion/react";
 
 export function Footer() {
@@ -14,7 +13,11 @@ export function Footer() {
       >
         <div className="flex flex-col md:flex-row justify-between items-center gap-6 mb-12">
           <div className="flex-shrink-0 flex items-center h-12">
-            <img src={image_46ccb88ec42c12599f144f5e241ffb0fa8cef1b2} alt="Logo de Manfreca" className="h-full w-auto object-contain" />
+            <img 
+              src={logoImg} 
+              alt="Logo de Manfreca" 
+              className="h-full w-auto object-contain" 
+            />
           </div>
           
           <div className="flex space-x-6">
