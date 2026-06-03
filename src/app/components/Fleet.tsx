@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "motion/react";
-import imgControlAbsoluto from "figma:../../assets/eabff3f6f5bd1377800bd5b082c1102423c079ef.png";
-import imgMaquinariaAmarilla from "figma:../../assets/b039d80e332fb88c32bcda32369e5be7997e2e9a.png";
-import imgRespuestaIntegral from "figma:../../assets/fc46ef2736af63e5d14edf6a00afe5ca718ac167.png";
+import imgControlAbsoluto from "../../assets/eabff3f6f5bd1377800bd5b082c1102423c079ef.png";
+import imgMaquinariaAmarilla from "../../assets/b039d80e332fb88c32bcda32369e5be7997e2e9a.png";
+import imgRespuestaIntegral from "../../assets/fc46ef2736af63e5d14edf6a00afe5ca718ac167.png";
 
 const fleetData = [
   {
