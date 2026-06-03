@@ -1,6 +1,5 @@
-import image_d85f914d8b87a8e658c87eb074aada5e3c6b10f9 from 'figma:asset/d85f914d8b87a8e658c87eb074aada5e3c6b10f9.png'
-import image_73d3daa2390eed4af0e6d74b68845ff54258631c from 'figma:asset/73d3daa2390eed4af0e6d74b68845ff54258631c.png'
-import image_0fc745947af224986f32f5dc49f708191540a530 from 'figma:asset/0fc745947af224986f32f5dc49f708191540a530.png'
+import image_d85f914d8b87a8e658c87eb074aada5e3c6b10f9 from 'figma:../../assets/d85f914d8b87a8e658c87eb074aada5e3c6b10f9.png'
+
 import React from 'react';
 import { Target, Eye, ShieldCheck } from 'lucide-react';
 import { motion as Motion } from "motion/react";
