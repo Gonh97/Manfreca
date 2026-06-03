@@ -1,9 +1,9 @@
 import { useState, useRef } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { ArrowUpRight } from "lucide-react";
-import stadiumImage from 'figma:../../asset/47a05e5f769614243ed43738ccc0a7ea9c8b9040.png';
-import ucvImage from 'figma:../../asset/ff7bef193d0d6004b325b091c723445023fef8b6.png';
-import autopistaImage from 'figma:../../asset/e2c46b5d75fe26422f62c99124239119ccaa19e2.png';
+import stadiumImage from 'figma:../../assets/47a05e5f769614243ed43738ccc0a7ea9c8b9040.png';
+import ucvImage from 'figma:../../assets/ff7bef193d0d6004b325b091c723445023fef8b6.png';
+import autopistaImage from 'figma:../../assets/e2c46b5d75fe26422f62c99124239119ccaa19e2.png';
 
 const projects = [
   {
