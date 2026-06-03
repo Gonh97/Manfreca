@@ -1,4 +1,4 @@
-import image_46ccb88ec42c12599f144f5e241ffb0fa8cef1b2 from 'figma:asset/46ccb88ec42c12599f144f5e241ffb0fa8cef1b2.png'
+import image_46ccb88ec42c12599f144f5e241ffb0fa8cef1b2 from "../../assets/46ccb88ec42c12599f144f5e241ffb0fa8cef1b2.png";
 import logoManfreca from "figma:asset/3bd52dfc5ec22a7fec040fc801048b6bb455c1e3.png";
 import { motion as Motion } from "motion/react";
 
