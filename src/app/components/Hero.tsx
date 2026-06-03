@@ -1,5 +1,5 @@
 import { ArrowUpRight, Play, Star } from "lucide-react";
-import heroImg from "figma:asset/94d549bc989a76e06c425aac42dd451bdd1f6e6b.png";
+import heroImg from "../../assets/94d549bc989a7e06c425aac42dd451bd1f6eb.png";
 import { motion as Motion } from "motion/react";
 
 export function Hero() {
