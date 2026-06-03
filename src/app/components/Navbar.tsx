@@ -1,7 +1,7 @@
 import { Menu, X, ArrowUpRight } from "lucide-react";
 import { useState, useEffect } from "react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
-import logoImage from "figma:asset/46ccb88ec42c12599f144f5e241ffb0fa8cef1b2.png";
+import logoImg from "../../assets/46ccb88e42c12599f144f5e241ffb0fa8cef1b2.png";
 
 export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
