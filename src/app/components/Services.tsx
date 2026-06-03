@@ -1,9 +1,9 @@
 import React, { useState, useRef } from 'react';
-import imgService1 from 'figma:asset/09923c551a644f3441292de7d89f57d657ca2247.png';
-import imgService2 from 'figma:asset/dca313a29e88b7c1a90cce15583a6c091806aa2a.png';
-import imgService3 from 'figma:asset/9685852d0741470664b3a81428057d1e8834c942.png';
-import imgService4 from 'figma:asset/563e31df66baa99ee65b1358a57b3fd60c84e226.png';
-import imgService5 from 'figma:asset/a73e10ecbb5a8145eddf1c1294e64a3ec6d15f28.png';
+import imgService1 from 'figma:../../asset/09923c551a644f3441292de7d89f57d657ca2247.png';
+import imgService2 from 'figma:../../asset/dca313a29e88b7c1a90cce15583a6c091806aa2a.png';
+import imgService3 from 'figma:../../asset/9685852d0741470664b3a81428057d1e8834c942.png';
+import imgService4 from 'figma:../../asset/563e31df66baa99ee65b1358a57b3fd60c84e226.png';
+import imgService5 from 'figma:../../asset/a73e10ecbb5a8145eddf1c1294e64a3ec6d15f28.png';
 import { motion as Motion } from "motion/react";
 
 const services = [
