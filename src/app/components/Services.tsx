@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import { useState, useRef } from "react";
 import imgService1 from "../../assets/09923c551a644f3441292de7d89f57d657ca2247.png";
 import imgService2 from "../../assets/dca313a29e88b7c1a90cce15583a6c091806aa2a.png";
 import imgService3 from "../../assets/9685852d0741470664b3a81428057d1e8834c942.png";
