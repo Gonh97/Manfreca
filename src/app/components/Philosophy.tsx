@@ -1,9 +1,7 @@
-import image_d85f914d8b87a8e658c87eb074aada5e3c6b10f9 from 'figma:../../assets/d85f914d8b87a8e658c87eb074aada5e3c6b10f9.png'
-
-import React from 'react';
-import { Target, Eye, ShieldCheck } from 'lucide-react';
+import React from "react";
+import { Target, Eye, ShieldCheck } from "lucide-react";
 import { motion as Motion } from "motion/react";
-
+import image_d85f914d8b87a8e658c87eb074aada5e3c6b10f9 from "../../assets/d85f914d8b87a8e658c87eb074aada5e3c6b10f9.png";
 export function Philosophy() {
   return (
     <section id="filosofia" className="bg-white overflow-hidden relative">
